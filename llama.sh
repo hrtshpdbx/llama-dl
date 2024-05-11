@@ -9,7 +9,7 @@
 PRESIGNED_URL="https://agi.gpt4.org/llama/LLaMA/*"
 
 MODEL_SIZE="7B"  # edit this list with the model sizes you wish to download
-TARGET_FOLDER="./"             # where all files should end up
+TARGET_FOLDER="/home/prasad/Desktop/CALM-train-main/train/mocel_weights"             # where all files should end up
 
 declare -A N_SHARD_DICT
 
